@@ -1,0 +1,8 @@
+There are 6 scripts:
+utils/resizing_script.ipynb - used to resize and organize images from the original dataset
+empirical_Testing.ipynb - generating training plots and predictions from models
+show_explanations.ipynb - shows what happens in the deep layers of model by averaging signal across the layer
+testing_architectures.ipynb - training 3 architectures and logging performance and training using custom logger and tensorboard
+testing_loss_functions.ipynb - training 1 model with 3 different loss functions and logging performance
+training_final_model.ipynb - training the final chosen model for 30 epochs
+gradio.app - script which loads in the best model and allows using gradio GUI to test it

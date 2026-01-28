@@ -1,0 +1,5 @@
+original_dataset
+processed_dataset
+.old
+saved_models/testing_architecture/
+saved_models/testing_loss/
