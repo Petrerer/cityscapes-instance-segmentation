@@ -1,6 +1,6 @@
 # Computer Vision - Project 3: Semantic Segmentation
 
-**Authors:** Piotr Franc & Paweł Charkiewicz  
+**Authors:** Piotr Franc
 **Date:** January 2026
 
 ---
